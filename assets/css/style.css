@@ -16,7 +16,7 @@ body {
 }
 
 h2, h3 {
-  color: #75d1e1;
+  color: #2a2a41;
 }
 
 main {
@@ -30,14 +30,14 @@ main {
 }
 
 .jumbotron {
-  background: url("../img/IMG_20210605_160201.jpg");
+  background: url("../../KUEH.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
   background-size: 1400px;
   padding: 240px 0 240px 0;
   text-align: center;
-  color: #fff;
+  color: #ffffff;
   margin-bottom: -20px;
 }
 
@@ -82,17 +82,17 @@ aside {
 }
 
 footer {
-  background: linear-gradient(90deg, rgba(249,249,249,1) 1%, rgba(255,255,255,1) 100%, rgba(0,212,255,1) 100%);
+  background: linear-gradient(90deg, rgb(170, 170, 170) 1%, rgba(255,255,255,1) 100%, rgb(0, 0, 0) 100%);
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, .2);
   padding: 20px;
-  color: #cfcfcf;
+  color: #a3a1a1;
   text-align: center;
   font-weight: 700
 }
 
 nav {
   font-size: 18px;
-  background: linear-gradient(90deg, rgba(209,209,209,1) 2%, rgba(255,255,255,1) 100%, rgba(0,212,255,1) 100%);
+  background: linear-gradient(90deg, rgb(253, 253, 253) 2%, rgb(221, 220, 220) 100%, rrgb(185, 185, 185)100%);
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, .2);
   border-radius: 5px;
   padding-bottom: 10px;
@@ -101,7 +101,7 @@ nav {
 }
 
 nav a{
-  color: #75d1e1;
+  color: #202729;
 }
 
 ul {
@@ -128,7 +128,7 @@ ul li {
   top: 10px;
   right: 20px;
   cursor: pointer;
-  color: rgba(216, 216, 216, 0.84);
+  color: rgba(145, 32, 32, 0.84);
   font-size: 24px;
 }
 
